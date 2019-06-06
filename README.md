@@ -1,1 +1,2 @@
-# elevate-osna-team1
+# elevate-osna-starter
+starter code for elevate osna course
